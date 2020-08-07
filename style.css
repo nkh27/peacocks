@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+body{
+color:#d1001c ;
+background-color: turquoise;
+font-family:'Lobster', cursive;
+font-size:larger;
+}
+#location{
+border-style: dotted;
+border-width:10px ;
+border-color: red;
+padding: 13px;
+margin: 15px;
+line-height: 1;
+letter-spacing: 1px;
+text-align: center;
+
+}
+#location ul{
+ list-style-position: inside;   
+}
+#description{  
+border-style: solid;
+border-width:9px ;
+border-color: purple;
+padding:12px;
+margin: 20px;
+line-height: 2;
+letter-spacing: 2px;
+text-align: center;
+}
+#description ul{
+    list-style-position: inside;
+}
+#eating{
+color: black;
+border-style:dashed ; 
+border-width: 13px;
+border-color: blue;
+margin: 14px;
+padding: 14px;   
+}
+#funfacts{
+border-style:solid ;
+border-width: 11px;
+border-color: palevioletred;
+padding: 12px;
+margin:18px ;
+line-height: 1.2;
+letter-spacing: 2px;
+text-align: center;    
+}
+#funfacts ul{
+    list-style-position: inside;
+}
+#additional{
+color: blueviolet;
+letter-spacing: 1px;
+border-style: groove;
+border-color: aquamarine;
+border-width: 6px;
+margin: 16px; 
+padding: 13px;
+text-align: center;
+}
+#additional{
+     list-style-position: inside;    
+}
+h1{
+text-align: center;    
+}
+nav{
+text-align: center;    
+}
+#peacocks{
+width: 300px;
+height: 200px;    
+
+margin: 12px;    
+}
+#feather{
+color: purple;
+border-style: double;
+border-color: blue;
+border-width: 5px;
+margin: 17px;
+text-align: center;    
+}
+#feather ul{
+  list-style-position: inside;    
+}
